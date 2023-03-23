@@ -1,7 +1,7 @@
 # Olá, me chamo Giovanna Morais!
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou estudando na Trybe
+- 🔭 Formei na Trybe
 - 🌱 Me aprofundando em Javascript, React e Node.js
 - 😄 Pronomes: SHE/ELA
 
